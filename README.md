@@ -14,7 +14,8 @@ This repository showcases two key software security audit projects conducted in 
    - **Remediations**:  
      - Implemented salted hashing using **Bcrypt** for secure password storage.  
      - Suggested adoption of multi-factor authentication (MFA) to enhance security.  
-   - **Impact**: Increased resilience against brute-force attacks and replay exploits by enforcing secure password management practices.  
+   - **Impact**: Increased resilience against brute-force attacks and replay exploits by enforcing secure password management practices.
+   - **Detailed Report**: [Banking App Security Audit Report (PDF)](https://github.com/Mf4z/SDS-Audit-Project/blob/main/EPITA/Bank_app/report/SDS_Report_Exams_Bonus_Bank_App.pdf)  
 
 ### 2. **Stock Management App Security Audit**  
    - **Objective**: Assess vulnerabilities in a desktop stock application and implement security improvements.  
@@ -26,7 +27,8 @@ This repository showcases two key software security audit projects conducted in 
      - Replaced plaintext passwords with hashed passwords and unique salts.  
      - Transitioned to a three-tier architecture (Client → API → Database) to isolate the database from direct access.  
      - Utilized parameterized queries and strict input validation to mitigate SQL injection risks.  
-   - **Impact**: Strengthened access control, reduced the risk of credential leaks, and secured communication channels.  
+   - **Impact**: Strengthened access control, reduced the risk of credential leaks, and secured communication channels.
+   - **Detailed Report**: [Stock Management App Security Audit Report (PDF)](https://github.com/Mf4z/SDS-Audit-Project/blob/main/EPITA/Stock_app/report/SDS_Report_Exams.pdf)
 
 ## Skills and Technologies Used  
 - **Programming and Tools**:  
