@@ -6,7 +6,7 @@ This repository showcases two key software security audit projects conducted in 
 
 ## Projects Overview  
 
-### 1. **Banking App Security Audit**  
+### 1. [**Banking App Security Audit**  ](https://github.com/Mf4z/BankingApp)
    - **Objective**: Audit and identify vulnerabilities in a desktop banking application and recommend remediations.  
    - **Key Findings**:  
      - Password hashing without sufficient computational effort (CWE-916).  
